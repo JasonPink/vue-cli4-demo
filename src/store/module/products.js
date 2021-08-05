@@ -1,4 +1,5 @@
-import shop from '../../api/shop'
+// import shop from '../../api/shop'
+const shop = () => {}
 
 // initial state
 const state = () => ({
